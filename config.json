@@ -4,4 +4,5 @@
     "avatarUrl":"https://picx.zhimg.com/50/v2-2be02f3074e420e53a0b33c4e3257e87_720w.jpg?source=1940ef5c",
     "script":"<script src='https://blog.freeblock.cn/plugins/ArticleTOC.js'></script><script src='https://blog.freeblock.cn/plugins/lightbox.js'></script><script>document.querySelectorAll('a').forEach(anchor => {const img = anchor.querySelector('img');if (img && img.hasAttribute('data-canonical-src')) {const canonicalSrc = img.getAttribute('data-canonical-src');anchor.setAttribute('href', canonicalSrc);img.setAttribute('src', canonicalSrc);img.removeAttribute('data-canonical-src');}});</script>",
     "GMEEK_VERSION":"last"
+    "script":"<script src='https://blog.freeblock.cn/plugins/ArticleTOC.js'></script><script src='https://blog.freeblock.cn/plugins/lightbox.js'></script><script>document.querySelectorAll('a').forEach(anchor => {const img = anchor.querySelector('img');if (img && img.hasAttribute('data-canonical-src')) {const canonicalSrc = img.getAttribute('data-canonical-src');anchor.setAttribute('href', canonicalSrc);img.setAttribute('src', canonicalSrc);img.removeAttribute('data-canonical-src');}});</script>",
 }
