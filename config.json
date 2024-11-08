@@ -1,9 +1,19 @@
 {
-    "title":"流浪汉の窝",
-    "subTitle":"来的都JB哥们儿随便整",
-    "avatarUrl":"https://picx.zhimg.com/50/v2-2be02f3074e420e53a0b33c4e3257e87_720w.jpg?source=1940ef5c",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-
+    "title":"流浪汉の小窝",
+    "subTitle":"❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+    "displayTitle":"都是JB哥们儿",
+    "avatarUrl":"https://img.liyifan.xyz/file/899bc692dbb6d6d7b994f.jpg",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "themeMode":"fix",
+    "dayTheme":"light_tritanopia",
+    "nightTheme":"github-light",
+    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
+    "showPostSource":0,
+    "script":"<script src='https://blog.liyifan.xyz/assets/cat_backtotop.js'></script><script src='https://blog.liyifan.xyz/assets/lazyload.js'></script><script src='https://blog.liyifan.xyz/assets/viewimg.js'></script>",
+    "indexScript":"<script src='https://blog.liyifan.xyz/assets/NumPagination.js'></script>",
+    "allHead":"<script src='https://blog.liyifan.xyz/assets/GmeekBSZ.js'></script><script src='https://blog.liyifan.xyz/assets/yifantheme.js'></script><script src='https://blog.liyifan.xyz/assets/live2d.js'></script>",
     "GMEEK_VERSION":"last"
-    
 }
